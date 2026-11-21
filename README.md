@@ -9,6 +9,7 @@ I built this as a self-directed FP&A portfolio project to test budgeting and for
 | File | What it contains |
 | --- | --- |
 | [Excel model](Budget-and-Forecast.xlsx) | Company models, budget vs. actuals, editable forecast cases, variance bridges and audit checks |
+| [Power BI report (.pbix)](Budget-Forecast-Light.pbix) | Open the light report in Power BI Desktop with data already loaded |
 | [Power BI project in the full project ZIP](Budgeting-Forecasting-GitHub.zip) | Interactive portfolio comparison and company-level revenue, profit and cash flow views |
 | [Portfolio review](Portfolio-Review.pdf) | Two-page FY2022 executive summary with an Apple net income variance bridge |
 | [Company briefs](Company-Budget-Briefs.pdf) | One presentation page for each of the 12 companies |
